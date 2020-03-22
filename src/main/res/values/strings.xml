@@ -1,4 +1,11 @@
-<resources>
-    <string name="afficherTrombi">Afficher Trombinoscope</string>
-    <string name="ajoutPers">Ajouter Personne</string>
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">Trombinoscope</string>
+
+    <string name="ajouter">Ajouter personne</string>
+
+    <string name="afficher">Afficher Trombi</string>
+
 </resources>
